@@ -1,3 +1,3 @@
-module github.com/zhyee/zipstream
+module github.com/GuanceCloud/zipstream
 
 go 1.12

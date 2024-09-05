@@ -6,7 +6,7 @@ Most code of this package is copied directly from golang standard library [archi
 is [here](https://pkware.cachefly.net/webdocs/casestudies/APPNOTE.TXT)
 
 ## Usage
-> go get github.com/zhyee/zipstream
+> go get github.com/GuanceCloud/zipstream
 
 ## Examples
 
@@ -18,7 +18,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/zhyee/zipstream"
+	"github.com/GuanceCloud/zipstream"
 )
 
 func main() {
